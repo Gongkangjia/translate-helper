@@ -5,7 +5,7 @@
 // @match        *://translate.google.cn/*
 // @grant       none
 // @version     1.0
-// @author      kjgong@kjgong.cn
+// @author      gongkangjia@gmail.com
 // @description 2020/12/11 下午4:25:34
 // @updateURL https://raw.githubusercontent.com/Gongkangjia/translate-helper/main/translate-helper.js
 // ==/UserScript==
